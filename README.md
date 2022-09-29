@@ -1,6 +1,6 @@
 ![Logo](capa.PNG)
 
-# Rest Countries
+# Password generator
 
 The idea of ​​the project was to create a password generator with the option of total characters you want. In addition to being able to practice javascript.
 
